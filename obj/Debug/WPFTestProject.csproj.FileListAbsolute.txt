@@ -1,0 +1,15 @@
+D:\WPFApps\WPFTestProject\WPFTestProject\bin\Debug\WPFTestProject.exe.config
+D:\WPFApps\WPFTestProject\WPFTestProject\bin\Debug\WPFTestProject.exe
+D:\WPFApps\WPFTestProject\WPFTestProject\bin\Debug\WPFTestProject.pdb
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\MainWindow.g.cs
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\App.g.cs
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject_MarkupCompile.cache
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject_MarkupCompile.lref
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\MainWindow.baml
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.g.resources
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.Properties.Resources.resources
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.csproj.GenerateResource.Cache
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.exe
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.pdb
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.csprojAssemblyReference.cache
+D:\WPFApps\WPFTestProject\WPFTestProject\obj\Debug\WPFTestProject.csproj.CoreCompileInputs.cache
